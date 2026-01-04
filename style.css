@@ -1,0 +1,112 @@
+.card {
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    
+    
+}
+@media (min-width: 1440px) {
+   .card {
+    width: 400px;
+    text-align: cent;
+    background-color: white;
+    border-radius: 10px;
+
+    }
+    
+}
+body {
+    background-color: hsl(30, 54%, 90%);
+    line-height: 2.1;
+    font-size: 12px;
+
+    
+}
+h1 {
+    font-family: 'Young Serif', serif;
+    font-weight: 700px;
+    color: hsl(24, 5%, 18%);
+
+}
+h2 {
+    font-family: 'Young Serif', serif;
+    font-weight: 600px;
+    color: hsl(14, 45%, 36%);
+
+}
+
+
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400px;
+    color: hsl(30, 10%, 34%);
+}
+h3 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400px;
+    color: hsl(332, 51%, 32%);
+}
+ul {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400px;
+    color: hsl(30, 10%, 34%);
+    margin-left: 15px;
+    padding-left: 0;
+}
+li {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400px;
+
+}
+.preparation {
+    background-color: hsl(0, 100%, 98%);
+    padding-left: 15px;
+    
+    
+}
+img {
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+}
+ol {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400px;
+    color: hsl(30, 10%, 34%);
+    margin-left: 15px;
+    padding-left: 0;
+
+
+}
+ 
+
+.ingredients {
+    border-bottom: 1px solid hsl(30, 20%, 90%);
+}
+.instructions {
+     border-bottom: 1px solid hsl(30, 20%, 90%);
+     padding-bottom: 10px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 100px 10px;
+    width: 100%;
+    margin: 0;
+    padding-left: 5;
+}
+td {
+    padding-left: 5px;
+    text-align: left;
+    border-bottom: 1px solid hsl(30, 20%, 90%);
+    width: 
+}
+.space {
+    padding: 0 1px;
+}
+.first {
+    padding-left: ;
+    color: hsl(14, 45%, 36%);
+    
+}
